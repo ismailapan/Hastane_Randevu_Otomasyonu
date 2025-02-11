@@ -1,0 +1,413 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\UdemyProjeler\\myApp1\\Proje_Hastane\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4E3DED-1D9B-4108-A0EA-E5C4D9833DC5}|Proje_Hastane\\Proje_Hastane.csproj|c:\\users\\asus\\onedrive\\masa\u00FCst\u00FC\\udemyprojeler\\myapp1\\proje_hastane\\proje_hastane\\frmhastagiri\u015F.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8B4E3DED-1D9B-4108-A0EA-E5C4D9833DC5}|Proje_Hastane\\Proje_Hastane.csproj|solutionrelative:proje_hastane\\frmhastagiri\u015F.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4E3DED-1D9B-4108-A0EA-E5C4D9833DC5}|Proje_Hastane\\Proje_Hastane.csproj|C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\UdemyProjeler\\myApp1\\Proje_Hastane\\proje_hastane\\frmhastadetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B4E3DED-1D9B-4108-A0EA-E5C4D9833DC5}|Proje_Hastane\\Proje_Hastane.csproj|solutionrelative:proje_hastane\\frmhastadetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4E3DED-1D9B-4108-A0EA-E5C4D9833DC5}|Proje_Hastane\\Proje_Hastane.csproj|C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\UdemyProjeler\\myApp1\\Proje_Hastane\\proje_hastane\\frmsekretergiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B4E3DED-1D9B-4108-A0EA-E5C4D9833DC5}|Proje_Hastane\\Proje_Hastane.csproj|solutionrelative:proje_hastane\\frmsekretergiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4E3DED-1D9B-4108-A0EA-E5C4D9833DC5}|Proje_Hastane\\Proje_Hastane.csproj|C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\UdemyProjeler\\myApp1\\Proje_Hastane\\proje_hastane\\sekreterdetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B4E3DED-1D9B-4108-A0EA-E5C4D9833DC5}|Proje_Hastane\\Proje_Hastane.csproj|solutionrelative:proje_hastane\\sekreterdetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4E3DED-1D9B-4108-A0EA-E5C4D9833DC5}|Proje_Hastane\\Proje_Hastane.csproj|C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\UdemyProjeler\\myApp1\\Proje_Hastane\\proje_hastane\\frmhastadetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8B4E3DED-1D9B-4108-A0EA-E5C4D9833DC5}|Proje_Hastane\\Proje_Hastane.csproj|solutionrelative:proje_hastane\\frmhastadetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4E3DED-1D9B-4108-A0EA-E5C4D9833DC5}|Proje_Hastane\\Proje_Hastane.csproj|C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\UdemyProjeler\\myApp1\\Proje_Hastane\\proje_hastane\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B4E3DED-1D9B-4108-A0EA-E5C4D9833DC5}|Proje_Hastane\\Proje_Hastane.csproj|solutionrelative:proje_hastane\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4E3DED-1D9B-4108-A0EA-E5C4D9833DC5}|Proje_Hastane\\Proje_Hastane.csproj|C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\UdemyProjeler\\myApp1\\Proje_Hastane\\proje_hastane\\sekreterdetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8B4E3DED-1D9B-4108-A0EA-E5C4D9833DC5}|Proje_Hastane\\Proje_Hastane.csproj|solutionrelative:proje_hastane\\sekreterdetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4E3DED-1D9B-4108-A0EA-E5C4D9833DC5}|Proje_Hastane\\Proje_Hastane.csproj|C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\UdemyProjeler\\myApp1\\Proje_Hastane\\proje_hastane\\frmsekretergiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8B4E3DED-1D9B-4108-A0EA-E5C4D9833DC5}|Proje_Hastane\\Proje_Hastane.csproj|solutionrelative:proje_hastane\\frmsekretergiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4E3DED-1D9B-4108-A0EA-E5C4D9833DC5}|Proje_Hastane\\Proje_Hastane.csproj|C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\UdemyProjeler\\myApp1\\Proje_Hastane\\proje_hastane\\frmdoktorbilgiduzenle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8B4E3DED-1D9B-4108-A0EA-E5C4D9833DC5}|Proje_Hastane\\Proje_Hastane.csproj|solutionrelative:proje_hastane\\frmdoktorbilgiduzenle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4E3DED-1D9B-4108-A0EA-E5C4D9833DC5}|Proje_Hastane\\Proje_Hastane.csproj|C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\UdemyProjeler\\myApp1\\Proje_Hastane\\proje_hastane\\frmdoktorbilgiduzenle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B4E3DED-1D9B-4108-A0EA-E5C4D9833DC5}|Proje_Hastane\\Proje_Hastane.csproj|solutionrelative:proje_hastane\\frmdoktorbilgiduzenle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4E3DED-1D9B-4108-A0EA-E5C4D9833DC5}|Proje_Hastane\\Proje_Hastane.csproj|C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\UdemyProjeler\\myApp1\\Proje_Hastane\\proje_hastane\\frmdoktorpaneli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8B4E3DED-1D9B-4108-A0EA-E5C4D9833DC5}|Proje_Hastane\\Proje_Hastane.csproj|solutionrelative:proje_hastane\\frmdoktorpaneli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4E3DED-1D9B-4108-A0EA-E5C4D9833DC5}|Proje_Hastane\\Proje_Hastane.csproj|C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\UdemyProjeler\\myApp1\\Proje_Hastane\\proje_hastane\\frmbrans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8B4E3DED-1D9B-4108-A0EA-E5C4D9833DC5}|Proje_Hastane\\Proje_Hastane.csproj|solutionrelative:proje_hastane\\frmbrans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4E3DED-1D9B-4108-A0EA-E5C4D9833DC5}|Proje_Hastane\\Proje_Hastane.csproj|C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\UdemyProjeler\\myApp1\\Proje_Hastane\\proje_hastane\\frmhastakayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8B4E3DED-1D9B-4108-A0EA-E5C4D9833DC5}|Proje_Hastane\\Proje_Hastane.csproj|solutionrelative:proje_hastane\\frmhastakayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4E3DED-1D9B-4108-A0EA-E5C4D9833DC5}|Proje_Hastane\\Proje_Hastane.csproj|C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\UdemyProjeler\\myApp1\\Proje_Hastane\\proje_hastane\\frmhastakayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B4E3DED-1D9B-4108-A0EA-E5C4D9833DC5}|Proje_Hastane\\Proje_Hastane.csproj|solutionrelative:proje_hastane\\frmhastakayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4E3DED-1D9B-4108-A0EA-E5C4D9833DC5}|Proje_Hastane\\Proje_Hastane.csproj|C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\UdemyProjeler\\myApp1\\Proje_Hastane\\proje_hastane\\frmdoktorgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8B4E3DED-1D9B-4108-A0EA-E5C4D9833DC5}|Proje_Hastane\\Proje_Hastane.csproj|solutionrelative:proje_hastane\\frmdoktorgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4E3DED-1D9B-4108-A0EA-E5C4D9833DC5}|Proje_Hastane\\Proje_Hastane.csproj|C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\UdemyProjeler\\myApp1\\Proje_Hastane\\proje_hastane\\frmdoktordetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8B4E3DED-1D9B-4108-A0EA-E5C4D9833DC5}|Proje_Hastane\\Proje_Hastane.csproj|solutionrelative:proje_hastane\\frmdoktordetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4E3DED-1D9B-4108-A0EA-E5C4D9833DC5}|Proje_Hastane\\Proje_Hastane.csproj|C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\UdemyProjeler\\myApp1\\Proje_Hastane\\proje_hastane\\frmbrans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B4E3DED-1D9B-4108-A0EA-E5C4D9833DC5}|Proje_Hastane\\Proje_Hastane.csproj|solutionrelative:proje_hastane\\frmbrans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4E3DED-1D9B-4108-A0EA-E5C4D9833DC5}|Proje_Hastane\\Proje_Hastane.csproj|C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\UdemyProjeler\\myApp1\\Proje_Hastane\\proje_hastane\\frmrandevulist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B4E3DED-1D9B-4108-A0EA-E5C4D9833DC5}|Proje_Hastane\\Proje_Hastane.csproj|solutionrelative:proje_hastane\\frmrandevulist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4E3DED-1D9B-4108-A0EA-E5C4D9833DC5}|Proje_Hastane\\Proje_Hastane.csproj|C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\UdemyProjeler\\myApp1\\Proje_Hastane\\proje_hastane\\frmduyurular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B4E3DED-1D9B-4108-A0EA-E5C4D9833DC5}|Proje_Hastane\\Proje_Hastane.csproj|solutionrelative:proje_hastane\\frmduyurular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4E3DED-1D9B-4108-A0EA-E5C4D9833DC5}|Proje_Hastane\\Proje_Hastane.csproj|C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\UdemyProjeler\\myApp1\\Proje_Hastane\\proje_hastane\\frmdoktordetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B4E3DED-1D9B-4108-A0EA-E5C4D9833DC5}|Proje_Hastane\\Proje_Hastane.csproj|solutionrelative:proje_hastane\\frmdoktordetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4E3DED-1D9B-4108-A0EA-E5C4D9833DC5}|Proje_Hastane\\Proje_Hastane.csproj|C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\UdemyProjeler\\myApp1\\Proje_Hastane\\proje_hastane\\frmdoktorpaneli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B4E3DED-1D9B-4108-A0EA-E5C4D9833DC5}|Proje_Hastane\\Proje_Hastane.csproj|solutionrelative:proje_hastane\\frmdoktorpaneli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4E3DED-1D9B-4108-A0EA-E5C4D9833DC5}|Proje_Hastane\\Proje_Hastane.csproj|C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\UdemyProjeler\\myApp1\\Proje_Hastane\\proje_hastane\\frmdoktorgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B4E3DED-1D9B-4108-A0EA-E5C4D9833DC5}|Proje_Hastane\\Proje_Hastane.csproj|solutionrelative:proje_hastane\\frmdoktorgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4E3DED-1D9B-4108-A0EA-E5C4D9833DC5}|Proje_Hastane\\Proje_Hastane.csproj|C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\UdemyProjeler\\myApp1\\Proje_Hastane\\proje_hastane\\frmduyurular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8B4E3DED-1D9B-4108-A0EA-E5C4D9833DC5}|Proje_Hastane\\Proje_Hastane.csproj|solutionrelative:proje_hastane\\frmduyurular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4E3DED-1D9B-4108-A0EA-E5C4D9833DC5}|Proje_Hastane\\Proje_Hastane.csproj|C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\UdemyProjeler\\myApp1\\Proje_Hastane\\proje_hastane\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8B4E3DED-1D9B-4108-A0EA-E5C4D9833DC5}|Proje_Hastane\\Proje_Hastane.csproj|solutionrelative:proje_hastane\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4E3DED-1D9B-4108-A0EA-E5C4D9833DC5}|Proje_Hastane\\Proje_Hastane.csproj|C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\UdemyProjeler\\myApp1\\Proje_Hastane\\proje_hastane\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B4E3DED-1D9B-4108-A0EA-E5C4D9833DC5}|Proje_Hastane\\Proje_Hastane.csproj|solutionrelative:proje_hastane\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 84,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmSekreterGiris.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\UdemyProjeler\\myApp1\\Proje_Hastane\\Proje_Hastane\\FrmSekreterGiris.cs",
+              "RelativeDocumentMoniker": "Proje_Hastane\\FrmSekreterGiris.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\UdemyProjeler\\myApp1\\Proje_Hastane\\Proje_Hastane\\FrmSekreterGiris.cs",
+              "RelativeToolTip": "Proje_Hastane\\FrmSekreterGiris.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T10:35:22.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SekreterDetay.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\UdemyProjeler\\myApp1\\Proje_Hastane\\Proje_Hastane\\SekreterDetay.cs",
+              "RelativeDocumentMoniker": "Proje_Hastane\\SekreterDetay.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\UdemyProjeler\\myApp1\\Proje_Hastane\\Proje_Hastane\\SekreterDetay.cs",
+              "RelativeToolTip": "Proje_Hastane\\SekreterDetay.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T10:57:58.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmHastaDetay.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\UdemyProjeler\\myApp1\\Proje_Hastane\\Proje_Hastane\\FrmHastaDetay.cs",
+              "RelativeDocumentMoniker": "Proje_Hastane\\FrmHastaDetay.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\UdemyProjeler\\myApp1\\Proje_Hastane\\Proje_Hastane\\FrmHastaDetay.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Proje_Hastane\\FrmHastaDetay.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T06:33:56.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmHastaDetay.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\UdemyProjeler\\myApp1\\Proje_Hastane\\Proje_Hastane\\FrmHastaDetay.cs",
+              "RelativeDocumentMoniker": "Proje_Hastane\\FrmHastaDetay.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\UdemyProjeler\\myApp1\\Proje_Hastane\\Proje_Hastane\\FrmHastaDetay.cs",
+              "RelativeToolTip": "Proje_Hastane\\FrmHastaDetay.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T20:12:12.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmHastaGiri\u015F.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\UdemyProjeler\\myApp1\\Proje_Hastane\\Proje_Hastane\\FrmHastaGiri\u015F.cs",
+              "RelativeDocumentMoniker": "Proje_Hastane\\FrmHastaGiri\u015F.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\UdemyProjeler\\myApp1\\Proje_Hastane\\Proje_Hastane\\FrmHastaGiri\u015F.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Proje_Hastane\\FrmHastaGiri\u015F.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T13:11:38.722Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\UdemyProjeler\\myApp1\\Proje_Hastane\\Proje_Hastane\\Class1.cs",
+              "RelativeDocumentMoniker": "Proje_Hastane\\Class1.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\UdemyProjeler\\myApp1\\Proje_Hastane\\Proje_Hastane\\Class1.cs",
+              "RelativeToolTip": "Proje_Hastane\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T11:25:55.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SekreterDetay.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\UdemyProjeler\\myApp1\\Proje_Hastane\\Proje_Hastane\\SekreterDetay.cs",
+              "RelativeDocumentMoniker": "Proje_Hastane\\SekreterDetay.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\UdemyProjeler\\myApp1\\Proje_Hastane\\Proje_Hastane\\SekreterDetay.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Proje_Hastane\\SekreterDetay.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T10:16:29.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmSekreterGiris.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\UdemyProjeler\\myApp1\\Proje_Hastane\\Proje_Hastane\\FrmSekreterGiris.cs",
+              "RelativeDocumentMoniker": "Proje_Hastane\\FrmSekreterGiris.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\UdemyProjeler\\myApp1\\Proje_Hastane\\Proje_Hastane\\FrmSekreterGiris.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Proje_Hastane\\FrmSekreterGiris.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T10:12:54.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmDoktorBilgiDuzenle.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\UdemyProjeler\\myApp1\\Proje_Hastane\\Proje_Hastane\\FrmDoktorBilgiDuzenle.cs",
+              "RelativeDocumentMoniker": "Proje_Hastane\\FrmDoktorBilgiDuzenle.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\UdemyProjeler\\myApp1\\Proje_Hastane\\Proje_Hastane\\FrmDoktorBilgiDuzenle.cs",
+              "RelativeToolTip": "Proje_Hastane\\FrmDoktorBilgiDuzenle.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAArwC8AAABtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T18:02:48.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmDoktorBilgiDuzenle.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\UdemyProjeler\\myApp1\\Proje_Hastane\\Proje_Hastane\\FrmDoktorBilgiDuzenle.cs",
+              "RelativeDocumentMoniker": "Proje_Hastane\\FrmDoktorBilgiDuzenle.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\UdemyProjeler\\myApp1\\Proje_Hastane\\Proje_Hastane\\FrmDoktorBilgiDuzenle.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Proje_Hastane\\FrmDoktorBilgiDuzenle.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T18:01:14.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmBrans.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\UdemyProjeler\\myApp1\\Proje_Hastane\\Proje_Hastane\\FrmBrans.cs",
+              "RelativeDocumentMoniker": "Proje_Hastane\\FrmBrans.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\UdemyProjeler\\myApp1\\Proje_Hastane\\Proje_Hastane\\FrmBrans.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Proje_Hastane\\FrmBrans.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T08:56:36.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmDoktorPaneli.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\UdemyProjeler\\myApp1\\Proje_Hastane\\Proje_Hastane\\FrmDoktorPaneli.cs",
+              "RelativeDocumentMoniker": "Proje_Hastane\\FrmDoktorPaneli.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\UdemyProjeler\\myApp1\\Proje_Hastane\\Proje_Hastane\\FrmDoktorPaneli.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Proje_Hastane\\FrmDoktorPaneli.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T08:39:50.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrmHastaKayit.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\UdemyProjeler\\myApp1\\Proje_Hastane\\Proje_Hastane\\FrmHastaKayit.cs",
+              "RelativeDocumentMoniker": "Proje_Hastane\\FrmHastaKayit.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\UdemyProjeler\\myApp1\\Proje_Hastane\\Proje_Hastane\\FrmHastaKayit.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Proje_Hastane\\FrmHastaKayit.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T10:44:30.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FrmHastaKayit.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\UdemyProjeler\\myApp1\\Proje_Hastane\\Proje_Hastane\\FrmHastaKayit.cs",
+              "RelativeDocumentMoniker": "Proje_Hastane\\FrmHastaKayit.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\UdemyProjeler\\myApp1\\Proje_Hastane\\Proje_Hastane\\FrmHastaKayit.cs",
+              "RelativeToolTip": "Proje_Hastane\\FrmHastaKayit.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T10:52:48.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FrmDoktorGiris.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\UdemyProjeler\\myApp1\\Proje_Hastane\\Proje_Hastane\\FrmDoktorGiris.cs",
+              "RelativeDocumentMoniker": "Proje_Hastane\\FrmDoktorGiris.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\UdemyProjeler\\myApp1\\Proje_Hastane\\Proje_Hastane\\FrmDoktorGiris.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Proje_Hastane\\FrmDoktorGiris.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T14:25:10.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FrmDoktorDetay.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\UdemyProjeler\\myApp1\\Proje_Hastane\\Proje_Hastane\\FrmDoktorDetay.cs",
+              "RelativeDocumentMoniker": "Proje_Hastane\\FrmDoktorDetay.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\UdemyProjeler\\myApp1\\Proje_Hastane\\Proje_Hastane\\FrmDoktorDetay.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Proje_Hastane\\FrmDoktorDetay.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T14:32:00.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FrmBrans.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\UdemyProjeler\\myApp1\\Proje_Hastane\\Proje_Hastane\\FrmBrans.cs",
+              "RelativeDocumentMoniker": "Proje_Hastane\\FrmBrans.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\UdemyProjeler\\myApp1\\Proje_Hastane\\Proje_Hastane\\FrmBrans.cs",
+              "RelativeToolTip": "Proje_Hastane\\FrmBrans.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T10:55:56.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FrmRandevuList.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\UdemyProjeler\\myApp1\\Proje_Hastane\\Proje_Hastane\\FrmRandevuList.cs",
+              "RelativeDocumentMoniker": "Proje_Hastane\\FrmRandevuList.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\UdemyProjeler\\myApp1\\Proje_Hastane\\Proje_Hastane\\FrmRandevuList.cs",
+              "RelativeToolTip": "Proje_Hastane\\FrmRandevuList.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAmwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T12:54:38.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FrmDuyurular.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\UdemyProjeler\\myApp1\\Proje_Hastane\\Proje_Hastane\\FrmDuyurular.cs",
+              "RelativeDocumentMoniker": "Proje_Hastane\\FrmDuyurular.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\UdemyProjeler\\myApp1\\Proje_Hastane\\Proje_Hastane\\FrmDuyurular.cs",
+              "RelativeToolTip": "Proje_Hastane\\FrmDuyurular.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAEwBoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T10:46:03.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FrmDoktorDetay.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\UdemyProjeler\\myApp1\\Proje_Hastane\\Proje_Hastane\\FrmDoktorDetay.cs",
+              "RelativeDocumentMoniker": "Proje_Hastane\\FrmDoktorDetay.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\UdemyProjeler\\myApp1\\Proje_Hastane\\Proje_Hastane\\FrmDoktorDetay.cs",
+              "RelativeToolTip": "Proje_Hastane\\FrmDoktorDetay.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T13:35:37.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FrmDoktorPaneli.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\UdemyProjeler\\myApp1\\Proje_Hastane\\Proje_Hastane\\FrmDoktorPaneli.cs",
+              "RelativeDocumentMoniker": "Proje_Hastane\\FrmDoktorPaneli.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\UdemyProjeler\\myApp1\\Proje_Hastane\\Proje_Hastane\\FrmDoktorPaneli.cs",
+              "RelativeToolTip": "Proje_Hastane\\FrmDoktorPaneli.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T19:37:17.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FrmDoktorGiris.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\UdemyProjeler\\myApp1\\Proje_Hastane\\Proje_Hastane\\FrmDoktorGiris.cs",
+              "RelativeDocumentMoniker": "Proje_Hastane\\FrmDoktorGiris.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\UdemyProjeler\\myApp1\\Proje_Hastane\\Proje_Hastane\\FrmDoktorGiris.cs",
+              "RelativeToolTip": "Proje_Hastane\\FrmDoktorGiris.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAEwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T13:21:06.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FrmDuyurular.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\UdemyProjeler\\myApp1\\Proje_Hastane\\Proje_Hastane\\FrmDuyurular.cs",
+              "RelativeDocumentMoniker": "Proje_Hastane\\FrmDuyurular.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\UdemyProjeler\\myApp1\\Proje_Hastane\\Proje_Hastane\\FrmDuyurular.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Proje_Hastane\\FrmDuyurular.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T10:10:38.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\UdemyProjeler\\myApp1\\Proje_Hastane\\Proje_Hastane\\Form1.cs",
+              "RelativeDocumentMoniker": "Proje_Hastane\\Form1.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\UdemyProjeler\\myApp1\\Proje_Hastane\\Proje_Hastane\\Form1.cs",
+              "RelativeToolTip": "Proje_Hastane\\Form1.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAewBcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T13:28:28.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\UdemyProjeler\\myApp1\\Proje_Hastane\\Proje_Hastane\\Form1.cs",
+              "RelativeDocumentMoniker": "Proje_Hastane\\Form1.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Masa\u00FCst\u00FC\\UdemyProjeler\\myApp1\\Proje_Hastane\\Proje_Hastane\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Proje_Hastane\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T12:52:01.23Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
